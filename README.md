@@ -104,3 +104,9 @@ seaborn
 matplotlib
 statsmodels
 ```
+## Dashboard
+
+   ![Content Strategy & Vibe Check](Artist_efficiency_scatterplot.png)
+   ![Licensing & Efficiency Lab](Duration_vs_Popularity.png)
+
+   Full interactive file: [`dashboard/dashboard.pbix`]dashboard.pbix) (requires Power BI Desktop to open).
