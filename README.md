@@ -104,9 +104,3 @@ seaborn
 matplotlib
 statsmodels
 ```
-## Dashboard
-
-   ![Content Strategy & Vibe Check](dashboard/screenshots/Average_track_duration_over_time.png)
-   ![Licensing & Efficiency Lab](dashboard/screenshots/Artist_efficiency_scatterplot.png)
-
-   Full interactive file: [`dashboard/dashboard.pbix`](dashboard/dashboard.pbix) (requires Power BI Desktop to open).
